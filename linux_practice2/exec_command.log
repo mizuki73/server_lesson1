@@ -1,0 +1,149 @@
+    1  pwd
+    2  ls
+    3  exit
+    4  cd /home
+    5  vi README.md
+    6  cd /home
+    7  vi README.md
+    8  vi README.md
+    9  ä»exit
+   10  exit
+   11  cd home/
+   12  cat README.md 
+   13  cd /root
+   14  mkdir server_lesson && cd server_lesson
+   15  yum update -y && yum -y install git
+   16  git version
+   17  git init
+   18  touch first.txt
+   19  ls
+   20  pwd
+   21  cd /
+   22  pwd
+   23  cd server_lesson
+   24  cd server_lesson
+   25  cd /root
+   26  cd server_lesson
+   27  mkdir linux_practice1 && cd linux_practice1
+   28  mkdir public && cd public
+   29  ls
+   30  touch index.php
+   31  ls
+   32  cp ã‚³ãƒ”ãƒindex.php index_bk.php
+   33  ls
+   34  cp ã‚index.php index_bk.php
+   35  ld
+   36  ls
+   37  cp index.php index_bk.php
+   38  ls
+   39  cd linux_practice1
+   40  cd linux_practice1
+   41  cd linux_practice1
+   42  cd /linux_practice1
+   43  pwd
+   44  cd linux_practice1
+   45  cd /root
+   46  cd server_lesson
+   47  cd linux_practice1
+   48  cp -r public tmp
+   49  ls
+   50  cd tmp
+   51  ls
+   52  cd -
+   53  cd public
+   54  ls
+   55  cd -
+   56  cd tmp
+   57  rm index_bk.php
+   58  ls
+   59  rm index_bk.php
+   60  ls
+   61  ls
+   62  rm index_bk.php
+   63  ls
+   64  rm index_bk.php
+   65  ls
+   66  cd /root
+   67  cd server_lesson
+   68  ls
+   69  touch ãƒ•ã‚README.md
+   70  ls
+   71  rm README.md
+   72  rm ?????README.md
+   73  ls
+   74  touch README.md
+   75  ls
+   76  cd -
+   77  ls
+   78  cd server_lesson
+   79  mkdir linux_practice2 && cd linux_practice2
+   80  mkdir documents
+   81  ls
+   82  touch gizumo{01..50}.md
+   83  ls
+   84  cd documents
+   85  ls
+   86  cd -
+   87* 
+   88  ls
+   89  cd documents
+   90  ls
+   91  cd -
+   92  mkdir trash
+   93  cd documents
+   94* 
+   95  mv gizumo{20..40}.md trash
+   96  ls
+   97  cd -
+   98  ls
+   99  cd documents
+  100  mv gizumo{20..40}.md trash/.
+  101  ls
+  102* 
+  103  cd -
+  104  mv gizumo{20..40}.md trash
+  105  cd documents
+  106  mv gizumo{20..40}.md trash/.
+  107  cd -
+  108  ls
+  109  mv gizumo{20..40}.md trash/.
+  110  mv gizumo{20..40}.md trash/.
+  111  cd documents
+  112  ls
+  113  mv gizumo20.md..gizumo40.md trash/.
+  114* 
+  115  ls
+  116  mv gizumo{20..40}.md ./trash
+  117  cd -
+  118  mv documents/gizumo{20..40}.md trash
+  119  cd trash
+  120  ls
+  121  cd -
+  122  touch .gitignore
+  123  ls
+  124  ls
+  125  ls
+  126  ls
+  127  cd -
+  128  ls
+  129  cd -
+  130  cd -
+  131  /root
+  132  cd /root
+  133  ls
+  134  cd server_lesson
+  135  ls
+  136  cd linux_practice2
+  137  ls
+  138  touch linux_practice2/.gitignore
+  139  cd /.gitignore
+  140  cd .gitignore
+  141  touch linux_practice2/.gitignore
+  142  vi .gitignore
+  143  ls -a
+  144  vi .gitignore
+  145  history300
+  146  history 300
+  147  touch exec_command.log
+  148  ls
+  149  history 300 >> exec_command.log
